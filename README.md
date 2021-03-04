@@ -6,7 +6,7 @@ This is a description of this guide.
 
 You can view the documentation directly in this repository, or rendered as a website at 
 
-[![PagerDuty Best Practices for DevSecOps Guide$](assets/img/screenshot.png)](https://devsecops.pagerduty.com)
+[![PagerDuty Best Practices for DevSecOps Guide](docs/assets/img/screenshot.png)](https://devsecops.pagerduty.com)
 
 ## Development
 We use [MkDocs](http://www.mkdocs.org/) to create a static site from this repository. For local development,
