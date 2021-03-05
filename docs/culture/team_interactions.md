@@ -1,0 +1,18 @@
+![Team Interactions](../assets/img/headers/team_interactions.png)
+
+Team interactions rely on common communication tools and techniques. In general, development, operations, and security teams should use as many common tools as possible. This will help each team streamline communication with each other as well as keep all the various teams’ activities transparent to each other. Explicitly, as a minimum, make sure that the teams are using the same email, chat, and ticketing systems. 
+
+Beyond tooling, there are a few standards of practice that the teams can implement that will improve not only communication but awareness of the different needs and expectations of each team. 
+
+1. **Meetings**
+     * Have regular meetings between the teams, such as regular standups. Depending on the size of the teams, this might be everyone in one meeting or representatives from each of the teams in a separate meeting, bringing back what they learn to their respective teams.
+1. **Rules for Tools**
+     * Set expectations for how the different teams prefer to communicate and with what level of urgency. Again, it is best to keep these as similar between the teams as possible. This might be something like chat for when a quick response is needed, or email for a slower, less-urgent response.
+1. **Rules of Engagement**
+     * Including and beyond tools, there should also be a “Rules of Engagement.” This will help guide other situations including, but not limited to: when to have meetings, whether cameras are on or off, if and when people should mute, how to determine who the next speaker is, and so on. We have a template available for Rules of Engagement here to help you get started. **[Here is one of the templates we use at PagerDuty](https://docs.google.com/presentation/d/1N4mAtI9Yaw1ZX0AkkyStJ41HwDgj__Kg3tQQgMHo1SA/edit?usp=sharing)**.
+1. **Documentation**
+     * Documentation can help avoid a lot of communication breakdowns. Remember, most developers and operations specialists have not worked in security and vice versa. Since each group cannot necessarily intuit what the appropriate level of context to provide when sending requests back and forth, it is important for each group to document what they need with extra granularity for the most common requests to function as a template. This will provide all groups with a reference to send information to each other and prevent things from being forgotten, which can lead to mutual frustration. To get started with this, document the request flow for each request as it arises and each iteration as the process improves.
+1. **Review and Iterate**
+     * As you build new processes and procedures, always verify that they are working as intended and make changes as needed. This includes meetings, structures, documents, and so forth. This should be done at a frequency that makes sense—for example, if you’re reviewing a daily standup, you might want to review weekly; however, if you’re reviewing a bi-weekly sprint, you might want to do a quick process review at the end of each meeting.
+
+Even with the most robust communication process, there will still be communication breakdowns. This can be in either direction, typically either due to malformed or misrouted requests, and can be inflamed if there is a short deadline or active incident that needs to be resolved. When these situations happen, it’s best to try and resolve quickly, amicably, and without judgement. For more details around this communications approach, take a look at the [4-Part Nonviolent Communication Process](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf), which templates how to ask questions in a non-judgemental way. 

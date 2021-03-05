@@ -40,6 +40,16 @@ dev_addr: '0.0.0.0:8080'
 pages:
   - Home: 'index.md'
   - Introduction: 'introduction.md'
+  - Security Terminology: 'terminology.md'
+  - Cultural Changes: 
+    - Building Empathy: 'culture/building_empathy.md'
+    - Team Interactions: 'culture/team_interactions.md'
+  - Implementation:
+    - Shift Security Left: 'implement/shift_left.md'
+    - Training and Education: 'implement/training.md'
+  - Additional Information:
+    - Secure SDLC: 'secure_sdlc.md'
+    - Resources and References: 'resources.md'
 
 # Analytics
 google_analytics: ['UA-8759953-1', 'auto']
