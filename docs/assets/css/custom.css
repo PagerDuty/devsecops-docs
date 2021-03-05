@@ -2,5 +2,5 @@
 
 /* Heading when printing */
 .article h1:before {
-  content: 'Automation for Incident Response';
+  content: 'Best Practices for DevSecOps'
 }
