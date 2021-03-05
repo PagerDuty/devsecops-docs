@@ -2,9 +2,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/56a0b236-13fc-4876-a5a6-da329ae7ae89/deploy-status)](https://app.netlify.com/sites/devsecops-72b1ca/deploys)
 
-This is a description of this guide.
+This guide is an introduction to DevSecOps, the cultural practice of integrating the security team into the process flow of development and operations.
 
-You can view the documentation directly in this repository, or rendered as a website at 
+You can view the documentation directly in this repository, or rendered as a website at [devsecops.pagerduty.com](https://devsecops.pagerduty.com):
 
 [![PagerDuty Best Practices for DevSecOps Guide](docs/assets/img/screenshot.png)](https://devsecops.pagerduty.com)
 
