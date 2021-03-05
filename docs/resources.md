@@ -6,8 +6,8 @@ As a reminder, make sure you have a firm understanding of where your gaps are so
 
 ## External contributors
 
-* Patrick Debois, Director of Market Strategy, Snyk (Twitter)
-* Brad Lhotsky, System and Security Administrator, craigslist (Twitter)
+* Patrick Debois, Director of Market Strategy, Snyk ([Twitter](https://twitter.com/patrickdebois))
+* Brad Lhotsky, System and Security Administrator, craigslist ([Twitter](https://twitter.com/reyjrar))
 
 ## Resources to Keep Handy
 
