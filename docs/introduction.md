@@ -1,6 +1,6 @@
 ![Introduction](../assets/img/headers/introduction.png)
 
-# What is DevSecOps?
+## What is DevSecOps?
 
 Simply put, DevSecOps is parallel to the changes that happened to development and operations as part of the DevOps transformation. In other words, the goal of DevSecOps is to break down the security silo—similar to how DevOps breaks down the silos between development and operations.
 
