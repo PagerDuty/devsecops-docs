@@ -1,4 +1,4 @@
-![Terminology](../assets/img/headers/terminology.png)
+![Terminology](/assets/images/headers/terminology.png)
 
 As you start your DevSecOps journey, it’s important to use common language and share common concepts with your security team. To help you get started, here are some industry terms and concepts, some of which you’ll need in the guide directly, but all of which you’ll need as you broaden your knowledge.
 
@@ -27,7 +27,7 @@ A **<u>security breach**</u> is whenever someone gains unauthorized access of an
 
 A **<u>data breach**</u> is any release of confidential information to public sources. Common examples are credit card numbers, government ID numbers, addresses, and other identifying information. The release may be unintentional or intentional. Note the difference between a security breach and a data breach: the security breach is the gaining of access (“breaking in”) and the data breach is taking information out from where it was secured (the “theft”, also referred to as **<u>exfiltration**</u>).
 
-## Exploit 
+## Exploit
 
 An **<u>exploit**</u> is code that takes advantage of a vulnerability.
 
@@ -57,4 +57,4 @@ Usually in reference to hacking, a **<u>white hat**</u> hacker is a person who h
 
 ## Red Team, Blue Team, Purple Team
 
-Similar to white hat hackers, **<u>red teams**</u> specialize in breaching security, with permission. Red team exercises are usually done by security teams to simulate what an external attacker is likely to do in order to obtain whatever they are targeting, e.g. secure data. On the opposite side is the **<u>blue team**</u>, which specializes in defensive security. Blue team exercises can be the defensive response to red team exercises, but they can also be other things like audits. When red teams and blue teams coordinate, it’s called **<u>purple teaming**</u>. 
+Similar to white hat hackers, **<u>red teams**</u> specialize in breaching security, with permission. Red team exercises are usually done by security teams to simulate what an external attacker is likely to do in order to obtain whatever they are targeting, e.g. secure data. On the opposite side is the **<u>blue team**</u>, which specializes in defensive security. Blue team exercises can be the defensive response to red team exercises, but they can also be other things like audits. When red teams and blue teams coordinate, it’s called **<u>purple teaming**</u>.

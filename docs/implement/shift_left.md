@@ -1,6 +1,6 @@
-![Shift Security Left](../assets/img/headers/shift_left.png)
+![Shift Security Left](/assets/images/headers/shift_left.png)
 
-Simply put: shifting security left means integrating security earlier in the SDLC. This is a different approach to how security is currently implemented, where their team is mostly reacting to a current incident, or being consulted as a last-step before something is released to production. Looking at the latter case first for a moment, that means that any insecure code that was designed and implemented has made it through the entire lifecycle before being reviewed. If security finds an issue, that means changes are likely to go back around the full cycle again before going live in production. 
+Simply put: shifting security left means integrating security earlier in the SDLC. This is a different approach to how security is currently implemented, where their team is mostly reacting to a current incident, or being consulted as a last-step before something is released to production. Looking at the latter case first for a moment, that means that any insecure code that was designed and implemented has made it through the entire lifecycle before being reviewed. If security finds an issue, that means changes are likely to go back around the full cycle again before going live in production.
 
 When security issues are found they require not only modifications to the codebase, but also other changes elsewhere in the life cycle (e.g. updating tests, monitoring, etc.). Shifting security left allows teams to address security issues much earlier in the life cycle, rather than finding out after significant labor has already taken place.
 
@@ -16,7 +16,7 @@ Why look at your security posture? The main goal is to provide some context for 
 
 The answer is that it depends and can vary widely. The best way forward is to “meet yourself where you’re at.” The security assessment will provide information that you can use to determine your next steps. Specifically, the security assessment should inform you of any current security risks and their criticality. Some questions the assessment will need to address:
 
-* Have there been any security incidents? 
+* Have there been any security incidents?
 * What are your current risks?
 * How critical are they?
 
