@@ -1,8 +1,8 @@
-![Team Interactions](../assets/img/headers/team_interactions.png)
+![Team Interactions](/assets/images/headers/team_interactions.png)
 
-Team interactions rely on common communication tools and techniques. In general, development, operations, and security teams should use as many common tools as possible. This will help each team streamline communication with each other as well as keep all the various teams’ activities transparent to each other. Explicitly, as a minimum, make sure that the teams are using the same email, chat, and ticketing systems. 
+Team interactions rely on common communication tools and techniques. In general, development, operations, and security teams should use as many common tools as possible. This will help each team streamline communication with each other as well as keep all the various teams’ activities transparent to each other. Explicitly, as a minimum, make sure that the teams are using the same email, chat, and ticketing systems.
 
-Beyond tooling, there are a few standards of practice that the teams can implement that will improve not only communication but awareness of the different needs and expectations of each team. 
+Beyond tooling, there are a few standards of practice that the teams can implement that will improve not only communication but awareness of the different needs and expectations of each team.
 
 1. **Meetings**
      * Have regular meetings between the teams, such as regular standups. Depending on the size of the teams, this might be everyone in one meeting or representatives from each of the teams in a separate meeting, bringing back what they learn to their respective teams.
@@ -15,4 +15,4 @@ Beyond tooling, there are a few standards of practice that the teams can impleme
 1. **Review and Iterate**
      * As you build new processes and procedures, always verify that they are working as intended and make changes as needed. This includes meetings, structures, documents, and so forth. This should be done at a frequency that makes sense—for example, if you’re reviewing a daily standup, you might want to review weekly; however, if you’re reviewing a bi-weekly sprint, you might want to do a quick process review at the end of each meeting.
 
-Even with the most robust communication process, there will still be communication breakdowns. This can be in either direction, typically either due to malformed or misrouted requests, and can be inflamed if there is a short deadline or active incident that needs to be resolved. When these situations happen, it’s best to try and resolve quickly, amicably, and without judgement. For more details around this communications approach, take a look at the [4-Part Nonviolent Communication Process](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf), which templates how to ask questions in a non-judgemental way. 
+Even with the most robust communication process, there will still be communication breakdowns. This can be in either direction, typically either due to malformed or misrouted requests, and can be inflamed if there is a short deadline or active incident that needs to be resolved. When these situations happen, it’s best to try and resolve quickly, amicably, and without judgement. For more details around this communications approach, take a look at the [4-Part Nonviolent Communication Process](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf), which templates how to ask questions in a non-judgemental way.

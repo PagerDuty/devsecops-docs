@@ -1,8 +1,8 @@
-![Secure Software Development Life Cycle](../assets/img/headers/secure_sdlc.png)
+![Secure Software Development Life Cycle](/assets/images/headers/secure_sdlc.png)
 
 To help you in your security journey, there are several tests and other actions that can be performed at different stages of the software lifecycle. For an idea of how and when certain tests and actions are performed, take a look at the following secure SDLC:
 
-![Six Pillars DevSecOps Diagram](../assets/img/six-pillars-of-devsecops-secure-sdlc-diagram.png)
+![Six Pillars DevSecOps Diagram](/assets/images/six-pillars-of-devsecops-secure-sdlc-diagram.png)
 <small>Figure from [Six Pillars of DevSecOps: Automation](https://cloudsecurityalliance.org/artifacts/devsecops-automation/) by the Cloud Security Alliance </small>
 
 Threat modeling and security assessments were covered in the [Shift Left](implement/shift_left/) section of this guide, but what about the rest? For the breakdown, you’ll see each action is preceded by a trigger. For example, the static testing is not done at any point in the secure coding phase, but specifically should be done whenever there are changes to the codebase. As for the actions themselves, here’s a quick overview separated by stage. (For tests that are repeated in more than one stage, they are listed under the first stage they appear.)
@@ -19,13 +19,13 @@ Threat modeling and security assessments were covered in the [Shift Left](implem
 ## Continuous Build, Integration, and Testing
 
 * **Container and Image Scan**
-    * Checks the build process of your containers and images for vulnerabilities. This should be done to establish trust with the base image or container, as well as any composites. 
+    * Checks the build process of your containers and images for vulnerabilities. This should be done to establish trust with the base image or container, as well as any composites.
 * **Dynamic Application Security Testing (DAST)**
     * DAST is for compiled code / a running application without knowledge of the environment, simulating a hacker. Since the code is running for the test, this test is good for identifying issues with the runtime environment as well. Note that DASTs are only run on web applications and services.
 * **Fuzzing**
     * Testing with unexpected inputs. This can be something like testing if a non-date is entered in a date field, or even (trying to) drop a binary file in a text field. The goal is to capture these cases and ensure that the application does not crash and gives a usable error message.
 * **Interactive Application Security Testing (IAST)**
-    * An IAST tests the running application for vulnerabilities during use, similar to a DAST. Unlike a DAST, an IAST can identify the line of code that is the source of a particular vulnerability. 
+    * An IAST tests the running application for vulnerabilities during use, similar to a DAST. Unlike a DAST, an IAST can identify the line of code that is the source of a particular vulnerability.
 
 ## Continuous Delivery and Deployment
 

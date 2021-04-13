@@ -2,8 +2,7 @@
 site_name: PagerDuty DevSecOps Documentation
 site_description: This guide is an introduction to DevSecOps, the cultural practice of integrating the security team into the process flow of development and operations.
 site_author: PagerDuty, Inc.
-site_favicon: 'assets/img/favicon.png'
-site_url: 'https://devsecops.pagerduty.com'
+site_url: https://devsecops.pagerduty.com/
 
 # Repository
 repo_url: https://github.com/PagerDuty/devsecops-docs
@@ -12,36 +11,16 @@ repo_url: https://github.com/PagerDuty/devsecops-docs
 copyright: 'Copyright &copy; PagerDuty, Inc.'
 
 # Theme
-theme: 'material'
-theme_dir: 'theme'
-extra_css: ['assets/css/pagerduty.css','assets/css/custom.css']
-extra_javascript: ['js/github_forks.js']
-extra:
-  favicon: 'assets/img/favicon.png'
-  logo: 'assets/img/icon.png'
-  cover: 'assets/img/covers/default.png'
-  palette:
-    primary: 'green'
-    accent: 'blue grey'
-  author:
-    github: 'PagerDuty'
-    twitter: 'PagerDuty'
-
-# Dev URL
-dev_addr: '0.0.0.0:8080'
+theme:
+  name: pagerduty
+  title: 'DevSecOps'
 
 # Contents
-##FIXME : Add additional pages below the index and introduction, as needed
-##Format should be:
-##      Name of Page: 'filename.md'
-## Or:
-##      Name of Parent Topic:
-##        Name of Subtopic: 'path/filename.md'
-pages:
+nav:
   - Home: 'index.md'
   - Introduction: 'introduction.md'
   - Security Terminology: 'terminology.md'
-  - Cultural Changes: 
+  - Cultural Changes:
     - Building Empathy: 'culture/building_empathy.md'
     - Team Interactions: 'culture/team_interactions.md'
   - Implementation:
@@ -65,3 +44,10 @@ markdown_extensions:
   - pymdownx.extra:
   - pymdownx.mark:
   - pymdownx.tilde:
+  - pymdownx.highlight:
+  - pymdownx.superfences:
+  - pymdownx.tabbed:
+
+# Development URL, bind to local only.
+dev_addr: '127.0.0.1:8000'
+

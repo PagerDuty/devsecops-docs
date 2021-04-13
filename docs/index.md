@@ -1,4 +1,4 @@
-![DevSecOps Guide Home Page](../assets/img/headers/home.png)
+![DevSecOps Guide Home Page](/assets/images/headers/home.png)
 
 ## Who is This For?
 
@@ -6,13 +6,13 @@ This guide is written primarily for individual contributors who are not currentl
 
 ## What is Covered?
 
-### Introduction 
+### Introduction
 
 - [What is DevSecOps, its benefits, and how to implement](introduction/)
 - [Security Terminology](terminology/)
 
 ### Cultural Changes
-#### Building Empathy & Team Interactions 
+#### Building Empathy & Team Interactions
 - [Walk A Mile: Shadowing](culture/building_empathy/#walk-a-mile-shadowing)
 - [Full-Service Ownership](culture/building_empathy/#full-service-ownership)
 - [Security Champions Program](culture/building_empathy/#security-champions-program)
