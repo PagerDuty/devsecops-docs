@@ -2,7 +2,7 @@
 
 ## Threat Modeling Exercises
 
-This is similar to the exercises that developers and operators do for production, such as running chaos experiments (at PagerDuty we’ve been doing [Failure Fridays](https://www.pagerduty.com/blog/failure-friday-at-pagerduty/) for [years](https://www.pagerduty.com/blog/failure-fridays-four-years/)). These exercises allow teams of both disciplines to really understand the interdependencies of our complex systems. Threat modeling is a similar idea. The goal of threat modeling is to consider the security implications of your environment, including but not limited to the code written, the services running, and overall test coverage. In the DevSecOps model, at a minimum, you’ll need all three teams—development, operations, and security—to gather and contribute within their areas of expertise.
+This is similar to the exercises that developers and operators do for production, such as running chaos experiments (at PagerDuty we’ve been doing [Failure Fridays](https://www.youtube.com/watch?v=rRIYkud4Im0) for [years](https://www.youtube.com/watch?v=XKl-7hB3paY). These exercises allow teams of both disciplines to really understand the interdependencies of our complex systems. Threat modeling is a similar idea. The goal of threat modeling is to consider the security implications of your environment, including but not limited to the code written, the services running, and overall test coverage. In the DevSecOps model, at a minimum, you’ll need all three teams—development, operations, and security—to gather and contribute within their areas of expertise.
 
 But how do you get started? Take a look at the [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)) framework for threat modeling. The acronym stands for:
 

@@ -24,7 +24,7 @@ As a reminder, make sure you have a firm understanding of where your gaps are so
 
 ## How to Contribute to this Guide
 
-Contributors are always welcome to help us keep the guide complete and correct. Also, in order to expand the content of the guide, topics related to the following have been slated to be added over time. If you would like to contribute to these topics, make suggestions, correct any errors, etc. please feel free to reach out by submitting a pull request or issue on GitHub (repository link [here](https://github.com/PagerDuty/devsecops-docs) as well as the upper left). You can also reach out to us on our [Community Forums](https://community.pagerduty.com/forum/).
+Contributors are always welcome to help us keep the guide complete and correct. Also, in order to expand the content of the guide, topics related to the following have been slated to be added over time. If you would like to contribute to these topics, make suggestions, correct any errors, etc. please feel free to reach out by submitting a pull request or issue on GitHub (repository link [here](https://github.com/PagerDuty/devsecops-docs) as well as the upper left). You can also reach out to us on our [Community Forums](https://community.pagerduty.com/).
 
 Some top level topics that we are looking at:
 

@@ -5,7 +5,7 @@ To help you in your security journey, there are several tests and other actions 
 ![Six Pillars DevSecOps Diagram](/assets/images/six-pillars-of-devsecops-secure-sdlc-diagram.png)
 <small>Figure from [Six Pillars of DevSecOps: Automation](https://cloudsecurityalliance.org/artifacts/devsecops-automation/) by the Cloud Security Alliance </small>
 
-Threat modeling and security assessments were covered in the [Shift Left](implement/shift_left/) section of this guide, but what about the rest? For the breakdown, you’ll see each action is preceded by a trigger. For example, the static testing is not done at any point in the secure coding phase, but specifically should be done whenever there are changes to the codebase. As for the actions themselves, here’s a quick overview separated by stage. (For tests that are repeated in more than one stage, they are listed under the first stage they appear.)
+Threat modeling and security assessments were covered in the [Shift Left](/implement/shift_left/) section of this guide, but what about the rest? For the breakdown, you’ll see each action is preceded by a trigger. For example, the static testing is not done at any point in the secure coding phase, but specifically should be done whenever there are changes to the codebase. As for the actions themselves, here’s a quick overview separated by stage. (For tests that are repeated in more than one stage, they are listed under the first stage they appear.)
 
 ## Secure Coding
 
@@ -43,4 +43,4 @@ Threat modeling and security assessments were covered in the [Shift Left](implem
 * **Runtime Application Self-Protection (RASP)**
     * Briefly, RASP works by adding sensors into the code so that execution points to watch for exploits happening in real time.
 * **Penetration Testing**
-    * Penetration testing, frequently referred to as pen testing, is a simulated attack to test for vulnerabilities. This type of testing can be done either [black box or white box](terminology/#white-box-vs-black-box) and can be done on the applications, services, systems, networks, etc.
+    * Penetration testing, frequently referred to as pen testing, is a simulated attack to test for vulnerabilities. This type of testing can be done either [black box or white box](/terminology/#white-box-vs-black-box) and can be done on the applications, services, systems, networks, etc.
