@@ -8,7 +8,7 @@ This guide is written primarily for individual contributors who are not currentl
 
 ### Introduction
 
-- [What is DevSecOps, its benefits, and how to implement](introduction/)
+- [What is DevSecOps, its benefits, and how to implement it](introduction/)
 - [Security Terminology](terminology/)
 
 ### Cultural Changes

@@ -1,6 +1,6 @@
 ![Attributions, References, and Resources](/assets/images/headers/resources.png)
 
-The goal of all of these exercises is to help development, operations, and security better understand how each group contributes to a secure SDLC. On the development and operations side, doing exercises like Threat Modeling and Capture the Flag as mentioned previously, help them develop a better understanding of how to weave security into their processes. Similarly on the security side, exercises like owning a service through production and shadowing helps them understand why development and operations structure their workflows the way they do.
+The goal of all of these exercises is to help development, operations, and security better understand how each group contributes to a secure SDLC. On the development and operations side, doing exercises like Threat Modeling and Capture the Flag as mentioned previously, help them develop a better understanding of how to weave security into their processes. Similarly on the security side, exercises like owning a service through production and shadowing help them understand why development and operations structure their workflows the way they do.
 
 As a reminder, make sure you have a firm understanding of where your gaps are so that as you begin to shift left you are doing so in a way that meets existing needs. As you continue your journey in security, there are several common resources that are used in the industry and went into the creation of this guide.
 

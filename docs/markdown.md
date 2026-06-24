@@ -8,7 +8,7 @@ We wrote this guide because it was an _awesome_ request, and also because it met
 Writing in Markdown is hard. If you're developing on a Mac and would like to see it rendered, try using
 [Macdown](https://macdown.uranusjr.com/). This will allow you to see the live view of the Markdown.
 
-Note that this only applies to standard Markdown, not the customiziations for these guides like `tips`.
+Note that this only applies to standard Markdown, not the customizations for these guides like `tips`.
 
 You can test by opening this file with that editor / the Markdown editor of your choice.
 
