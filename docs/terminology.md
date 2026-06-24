@@ -5,7 +5,7 @@ As you start your DevSecOps journey, it’s important to use common language and
 ## OWASP and NIST
 
 
-**<u>OWASP**</u> (Open Web Application Security Project) and **<u>NIST**</u> (National Institute for Standards and Technology, US Based) are two heavily used resources for security tools, resources, and research.
+**<u>OWASP**</u> (Open Web Application Security Project) and **<u>NIST**</u> (National Institute of Standards and Technology, US Based) are two heavily used resources for security tools, resources, and research.
 
 ## Security posture
 
